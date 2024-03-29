@@ -15,7 +15,7 @@ TMT plex,TMT channel,ParticipantID (Case_ID),Parent Sample ID(s),Aliquot ID,Grou
 01,130C,C3L-01248,C3L-01248-01,CPT0080300003,Tumor ,Tumor ,No,C3L-01248-21,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3L-01248-21,,
 01,131,C3N-00850,C3N-00850-02,CPT0027810003,Tumor ,Tumor ,Yes,C3N-00850-22,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3N-00850-22,,
 02,126,Ref,NA,NA,NA,NA,NA,NA,NA,,
-02,127N,C3L-00361,C3L-00361-06,CPT0002450001,Normal,Normal,No,C3L-00361-26,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3L-00361-26,,
+02,127N,C3L-00361,C3L-00361-06,CPT0002450001,Normal,low endometrium ,No,C3L-00361-26,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3L-00361-26,,
 02,127C,C3L-00361,C3L-00361-01,CPT0002430011,Tumor ,Tumor ,No,C3L-00361-21,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3L-00361-21,,
 02,128N,C3L-01249,C3L-01249-02,CPT0080890001,Normal,low endometrium ,No,C3L-01249-22,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3L-01249-22,,
 02,128C,C3L-01249,C3L-01249-01,CPT0080880003,Tumor ,Tumor ,No,C3L-01249-21,https://pathology.cancerimagingarchive.net/pathdata/cptac_camicroscope/osdCamicroscope.php?tissueId=C3L-01249-21,,
